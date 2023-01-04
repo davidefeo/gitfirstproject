@@ -1,9 +1,3 @@
-/**
- * 
- */
-/**
- * @author Ti
- *
- */
+/** @author Davi de Feo */
 module gitfirstproject {
 }
